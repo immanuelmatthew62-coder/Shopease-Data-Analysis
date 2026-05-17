@@ -126,4 +126,4 @@ Data Analysis Techniques — KPI tracking and segmentation
 
 This project demonstrates a complete data analytics workflow,from raw data to actionable insights. The final dashboard brings together key business metrics into a single view, making it easier to understand performance and support decision-making.
 
-The strongest takeaway from this analysis is that business performance is highly concentrated — driven by a few products, customers, and regions — which presents both opportunities and risks for growth.
+The strongest takeaway from this analysis is that business performance is highly concentrated, driven by a few products, customers, and regions. which presents both opportunities and risks for growth.
