@@ -1,0 +1,169 @@
+Order_ID,Order_Date,Customer_Name,Gender,City,Region,Product,Category,Quantity,Unit_Price_NGN,Total_Sales,Payment_Method
+ORD-001,2/22/2024,Nkechi Ibe,Male,Port harcourt,South-South,Laptop,Home Appliance,2,95000,190000,Cash
+ORD-002,4/1/2024,Musa Dankwa,Female,Lagos,South-West,Smartphone,Home Appliance,2,280000,560000,Transfer
+ORD-004,7/13/2024,Tunde Adeola,Male,Abuja,North-Central,Laptop,Home Appliance,1,470000,470000,Cash
+ORD-005,8/24/2024,Yusuf Garba,Male,Port harcourt,South-South,Televison,Home Appliance,5,455000,2275000,Cash
+ORD-006,10/6/2024,Obi Nwobi,Female,Lagos,South-West,Laptop,Electronics,3,38000,114000,Cash
+ORD-007,3/11/2024,Bola Ajayi,Female,Benin city,South-South,Smartphone,Electronics,5,150000,750000,Card
+ORD-008,12/14/2024,Amara Obi,Male,Lagos,South-West,Air conditioner,Home Appliance,5,120000,600000,Transfer
+ORD-009,2/24/2024,Kunle Adeyemi,Male,Kano,North-West,Laptop,Home Appliance,5,460000,2300000,Cash
+ORD-010,5/2/2024,Adaeze Onwu,Male,Enugu,South-East,Televison,Electronics,1,38000,38000,Card
+ORD-011,11/6/2024,Kunle Adeyemi,Male,Benin city,South-South,Television,Home Appliance,5,42000,210000,Card
+ORD-012,6/22/2024,Fatima Bello,Male,Port harcourt,South-South,Phone,Electronics,1,95000,95000,Cash
+ORD-013,3/10/2024,Chioma Igwe,Female,Lagos,South-West,Smartphone,Electronics,3,450000,1350000,Card
+ORD-014,1/28/2024,Nkechi Ibe,Female,Abuja,North-Central,Laptop,Home Appliance,4,150000,600000,Card
+ORD-015,5/7/2024,Chidi Okafor,Male,Enugu,South-East,Smartphone,Home Appliance,4,42000,168000,Card
+ORD-017,10/4/2024,Nkechi Ibe,Female,Abuja,North-Central,Television,Home Appliance,2,35000,70000,Transfer
+ORD-018,5/6/2024,Obi Nwobi,Female,Benin city,South-South,Television,Electronics,2,150000,300000,Cash
+ORD-019,8/22/2024,Adaeze Onwu,Female,Enugu,South-East,Blender,Electronics,2,450000,900000,Transfer
+ORD-020,5/25/2024,Sade Williams,Male,Benin city,South-South,Smartphone,Electronics,3,38000,114000,Cash
+ORD-021,10/10/2024,Nkechi Ibe,Male,Port harcourt,South-South,Laptop,Electronics,3,38000,114000,Cash
+ORD-022,3/7/2024,Ibrahim Sule,Female,Sokoto,North-West,Laptop,Electronics,3,35000,105000,Cash
+ORD-023,3/6/2024,Amina Yusuf,Female,Abuja,North-Central,Smartphone,Electronics,5,295000,1475000,Cash
+ORD-024,3/24/2024,Bola Ajayi,Female,Enugu,South-East,Microwave,Electronics,5,455000,2275000,Cash
+ORD-025,4/23/2024,Halima Musa,Female,Abuja,North-Central,Refrigerator,Home Appliance,4,470000,1880000,Unknown
+ORD-026,7/23/2024,Kunle Adeyemi,Female,Enugu,South-East,Microwave,Electronics,3,145000,435000,Transfer
+ORD-027,11/6/2024,Amina Yusuf,Female,Port harcourt,South-South,Smartphone,Electronics,3,455000,1365000,Card
+ORD-028,3/4/2024,Blessing Eze,Female,Enugu,South-East,Microwave,Home Appliance,3,320000,960000,Card
+ORD-029,10/7/2024,Peter Okeke,Male,Enugu,South-East,Laptop,Home Appliance,5,320000,1600000,Card
+ORD-030,11/20/2024,Blessing Eze,Male,Port harcourt,South-South,Smartphone,Home Appliance,1,120000,120000,Transfer
+ORD-031,4/9/2024,Obi Nwobi,Female,Lagos,South-West,Blender,Home Appliance,4,206300,825200,Transfer
+ORD-032,5/7/2024,Zainab Umar,Male,Enugu,South-East,Air conditioner,Home Appliance,5,280000,1400000,Cash
+ORD-033,11/22/2024,Bola Ajayi,Male,Sokoto,North-West,Smartphone,Home Appliance,4,228400,913600,Card
+ORD-034,12/21/2024,Peter Okeke,Male,Port harcourt,South-South,Microwave,Electronics,2,42000,84000,Cash
+ORD-035,6/29/2024,Amara Obi,Male,Kaduna,North-West,Televison,Home Appliance,5,150000,750000,Card
+ORD-036,6/21/2024,Peter Okeke,Male,Lagos,South-West,Phone,Home Appliance,4,280000,1120000,Cash
+ORD-038,6/28/2024,Emeka Nwosu,Male,Enugu,South-East,Refrigerator,Electronics,1,455000,455000,Transfer
+ORD-039,12/24/2024,Chidi Okafor,Male,Lagos,South-West,Blender,Home Appliance,1,320000,320000,Cash
+ORD-040,4/11/2024,Peter Okeke,Male,Port harcourt,South-South,Televison,Electronics,5,450000,2250000,Card
+ORD-041,2/5/2024,Sade Williams,Female,Enugu,South-East,Televison,Electronics,5,150000,750000,Transfer
+ORD-042,8/26/2024,Halima Musa,Male,Sokoto,North-West,Air conditioner,Home Appliance,5,460000,2300000,Transfer
+ORD-043,4/3/2024,Ibrahim Sule,Female,Sokoto,North-West,Phone,Electronics,3,35000,105000,Card
+ORD-044,8/31/2024,Victor Osei,Female,Lagos,South-West,Smartphone,Home Appliance,4,295000,1180000,Cash
+ORD-045,6/29/2024,Ibrahim Sule,Female,Port harcourt,South-South,Phone,Electronics,4,455000,1820000,Transfer
+ORD-046,11/1/2024,Kunle Adeyemi,Male,Enugu,South-East,Blender,Home Appliance,3,455000,1365000,Transfer
+ORD-047,1/7/2024,Tunde Adeola,Male,Kano,North-West,Laptop,Electronics,2,450000,900000,Card
+ORD-048,3/18/2024,Emeka Nwosu,Female,Abuja,North-Central,Air conditioner,Home Appliance,5,450000,2250000,Transfer
+ORD-049,6/5/2024,Amina Yusuf,Male,Lagos,South-West,Smartphone,Home Appliance,4,120000,480000,Transfer
+ORD-050,7/28/2024,Amara Obi,Male,Port harcourt,South-South,Television,Home Appliance,5,38000,190000,Cash
+ORD-051,11/27/2024,Bola Ajayi,Female,Abuja,North-Central,Refrigerator,Home Appliance,4,38000,152000,Transfer
+ORD-052,9/13/2024,Musa Dankwa,Male,Lagos,South-West,Phone,Home Appliance,3,455000,1365000,Card
+ORD-053,8/28/2024,Yusuf Garba,Male,Abuja,North-Central,Laptop,Electronics,3,320000,960000,Cash
+ORD-054,6/17/2024,Yusuf Garba,Female,Abuja,NORTH-CENTRAL,Microwave,Home Appliance,3,450000,1350000,Cash
+ORD-055,10/4/2024,Blessing Eze,Female,Ibadan,South-West,Microwave,Electronics,5,470000,2350000,Cash
+ORD-056,1/15/2024,Tunde Adeola,Male,Enugu,South-East,Smartphone,Home Appliance,4,455000,1820000,Card
+ORD-057,12/27/2024,Kunle Adeyemi,Male,Abuja,NORTH-CENTRAL,Smartphone,Home Appliance,4,455000,1820000,Card
+ORD-058,1/2/2024,Musa Dankwa,Female,Lagos,South-West,Smartphone,Electronics,3,460000,1380000,Transfer
+ORD-059,5/2/2024,Victor Osei,Female,Sokoto,North-West,Microwave,Electronics,4,145000,580000,Cash
+ORD-060,10/29/2024,Kunle Adeyemi,Male,Kaduna,North-West,Laptop,Home Appliance,4,35000,140000,Cash
+ORD-061,11/28/2024,Peter Okeke,Male,Kaduna,North-West,Smartphone,Home Appliance,3,320000,960000,Transfer
+ORD-062,4/26/2024,Adaeze Onwu,Female,Enugu,South-East,Smartphone,Electronics,2,450000,900000,Transfer
+ORD-063,3/15/2024,Amina Yusuf,Male,Port harcourt,South-South,Laptop,Electronics,3,205379,616137,Card
+ORD-064,8/23/2024,Musa Dankwa,Male,Lagos,South-West,Phone,Electronics,2,280000,560000,Transfer
+ORD-065,7/15/2024,Chioma Igwe,Male,Ibadan,South-West,Laptop,Home Appliance,4,470000,1880000,Unknown
+ORD-066,4/27/2024,Adaeze Onwu,Male,Port harcourt,South-South,Refrigerator,Electronics,5,455000,2275000,Card
+ORD-067,10/23/2024,Emeka Nwosu,Male,Port harcourt,South-South,Laptop,Electronics,3,460000,1380000,Card
+ORD-068,6/22/2024,Adaeze Onwu,Male,Benin city,South-South,Smartphone,Electronics,2,120000,240000,Card
+ORD-069,7/7/2024,Chidi Okafor,Male,Kaduna,North-West,Smartphone,Home Appliance,3,295000,885000,Cash
+ORD-070,11/21/2024,Fatima Bello,Female,Sokoto,North-West,Televison,Electronics,5,95000,475000,Transfer
+ORD-071,12/22/2024,Blessing Eze,Male,Sokoto,North-West,Smartphone,Home Appliance,4,280000,1120000,Card
+ORD-072,7/4/2024,Bola Ajayi,Female,Kaduna,North-West,Laptop,Home Appliance,2,205379,410758,Card
+ORD-073,4/5/2024,Ibrahim Sule,Female,Abuja,NORTH-CENTRAL,Smartphone,Home Appliance,5,35000,175000,Cash
+ORD-074,10/3/2024,Ngozi Eze,Male,Enugu,South-East,Television,Electronics,3,470000,1410000,Cash
+ORD-075,9/26/2024,Amina Yusuf,Male,Lagos,South-West,Laptop,Home Appliance,1,42000,42000,Transfer
+ORD-076,9/2/2024,Emeka Nwosu,Male,Lagos,South-West,Smartphone,Home Appliance,4,450000,1800000,Cash
+ORD-077,8/20/2024,Adaeze Onwu,Male,Kano,North-West,Television,Electronics,4,320000,1280000,Transfer
+ORD-078,7/31/2024,Peter Okeke,Female,Abuja,North-Central,Air conditioner,Home Appliance,4,145000,580000,Card
+ORD-080,10/22/2024,Tunde Adeola,Male,Enugu,South-East,Smartphone,Electronics,5,120000,600000,Card
+ORD-081,12/11/2024,Grace Okonkwo,Female,Enugu,South-East,Televison,Home Appliance,5,151933,759665,Transfer
+ORD-083,2/13/2024,Grace Okonkwo,Male,Sokoto,North-West,Television,Home Appliance,3,460000,1380000,Transfer
+ORD-084,2/26/2024,Amina Yusuf,Female,Lagos,South-West,Air conditioner,Electronics,5,38000,190000,Card
+ORD-086,6/9/2024,Fatima Bello,Male,Port harcourt,South-South,Smartphone,Home Appliance,4,35000,140000,Card
+ORD-087,8/11/2024,Bola Ajayi,Female,Kano,North-West,Smartphone,Electronics,4,470000,1880000,Cash
+ORD-088,3/16/2024,Ahmed Lawal,Female,Abuja,North-Central,Smartphone,Electronics,3,145000,435000,Transfer
+ORD-089,6/14/2024,Grace Okonkwo,Male,Enugu,South-East,Phone,Electronics,5,450000,2250000,Transfer
+ORD-090,2/9/2024,Adaeze Onwu,Male,Ibadan,South-West,Refrigerator,Home Appliance,1,35000,35000,Card
+ORD-091,3/18/2024,Kunle Adeyemi,Female,Enugu,South-East,Phone,Electronics,3,320000,960000,Card
+ORD-092,7/5/2024,Yusuf Garba,Male,Lagos,South-West,Smartphone,Home Appliance,5,265852,1329260,Transfer
+ORD-093,4/11/2024,Blessing Eze,Female,Ibadan,South-West,Microwave,Electronics,3,120000,360000,Transfer
+ORD-094,6/17/2024,Ahmed Lawal,Female,Kaduna,North-West,Televison,Home Appliance,3,295000,885000,Card
+ORD-095,8/4/2024,Halima Musa,Male,Kaduna,North-West,Laptop,Electronics,2,95000,190000,Card
+ORD-096,4/2/2024,Yusuf Garba,Male,Abuja,North-Central,Laptop,Electronics,5,150000,750000,Cash
+ORD-097,8/28/2024,Adaeze Onwu,Male,Enugu,South-East,Televison,Electronics,2,295000,590000,Cash
+ORD-098,7/9/2024,Halima Musa,Male,Benin city,South-South,Television,Home Appliance,3,35000,105000,Transfer
+ORD-099,1/28/2024,Amina Yusuf,Female,Sokoto,North-West,Air conditioner,Electronics,4,237533,950132,Cash
+ORD-100,3/12/2024,Victor Osei,Male,Abuja,North-Central,Television,Home Appliance,3,470000,1410000,Card
+ORD-101,8/2/2024,Bola Ajayi,Female,Abuja,North-Central,Smartphone,Electronics,3,38000,114000,Unknown
+ORD-102,5/3/2024,Sade Williams,Male,Benin city,South-South,Smartphone,Home Appliance,4,265852,1063408,Transfer
+ORD-103,1/9/2024,Nkechi Ibe,Male,Benin city,South-South,Air conditioner,Home Appliance,4,145000,580000,Card
+ORD-104,12/22/2024,Chidi Okafor,Female,Ibadan,South-West,Laptop,Electronics,2,470000,940000,Transfer
+ORD-105,5/9/2024,Halima Musa,Male,Lagos,South-West,Laptop,Electronics,5,150000,750000,Transfer
+ORD-106,12/20/2024,Halima Musa,Male,Abuja,north-central,Air conditioner,Home Appliance,4,145000,580000,Cash
+ORD-107,8/16/2024,Adaeze Onwu,Female,Kano,North-West,Microwave,Electronics,3,450000,1350000,Card
+ORD-108,7/5/2024,Peter Okeke,Male,Lagos,South-West,Refrigerator,Home Appliance,1,450000,450000,Transfer
+ORD-109,5/11/2024,Emeka Nwosu,Female,Lagos,South-West,Smartphone,Home Appliance,3,150000,450000,Transfer
+ORD-110,9/12/2024,Yusuf Garba,Female,Kaduna,North-West,Laptop,Electronics,1,35000,35000,Transfer
+ORD-111,8/15/2024,Victor Osei,Male,Port harcourt,South-South,Blender,Electronics,1,280000,280000,Cash
+ORD-112,12/4/2024,Tunde Adeola,Male,Port harcourt,South-South,Television,Home Appliance,3,295000,885000,Cash
+ORD-113,10/21/2024,Amina Yusuf,Female,Kano,North-West,Smartphone,Electronics,4,295000,1180000,Card
+ORD-114,3/25/2024,Adaeze Onwu,Male,Enugu,South-East,Television,Home Appliance,1,295000,295000,Cash
+ORD-115,9/30/2024,Grace Okonkwo,Male,Port harcourt,South-South,Laptop,Electronics,2,450000,900000,Card
+ORD-116,5/15/2024,Obi Nwobi,Male,Lagos,South-West,Televison,Electronics,1,35000,35000,Transfer
+ORD-117,1/31/2024,Victor Osei,Female,Port harcourt,South-South,Phone,Home Appliance,3,280000,840000,Cash
+ORD-118,5/3/2024,Ibrahim Sule,Female,Abuja,North-Central,Air conditioner,Home Appliance,5,295000,1475000,Cash
+ORD-119,9/20/2024,Halima Musa,Female,Kaduna,North-West,Television,Home Appliance,2,460000,920000,Cash
+ORD-120,8/28/2024,Blessing Eze,Male,Enugu,South-East,Laptop,Electronics,4,320000,1280000,Transfer
+ORD-121,7/16/2024,Fatima Bello,Female,Ibadan,South-West,Air conditioner,Electronics,3,295000,885000,Card
+ORD-123,6/2/2024,Nkechi Ibe,Female,Benin city,South-South,Microwave,Electronics,2,150000,300000,Transfer
+ORD-124,11/18/2024,Victor Osei,Female,Ibadan,South-West,Laptop,Electronics,5,120000,600000,Transfer
+ORD-125,1/17/2024,Bola Ajayi,Female,Lagos,South-West,Television,Home Appliance,2,470000,940000,Transfer
+ORD-126,6/15/2024,Zainab Umar,Male,Kaduna,North-West,Smartphone,Home Appliance,2,295000,590000,Cash
+ORD-127,4/25/2024,Adaeze Onwu,Female,Port harcourt,South-South,Televison,Home Appliance,2,120000,240000,Transfer
+ORD-128,5/28/2024,Ngozi Eze,Female,Enugu,South-East,Refrigerator,Electronics,4,470000,1880000,Card
+ORD-129,10/27/2024,Nkechi Ibe,Male,Enugu,South-East,Smartphone,Home Appliance,2,228400,456800,Transfer
+ORD-130,11/30/2024,Amina Yusuf,Male,Abuja,North-Central,Smartphone,Home Appliance,1,295000,295000,Cash
+ORD-131,7/22/2024,Emeka Nwosu,Male,Abuja,North-Central,Smartphone,Home Appliance,2,228400,456800,Cash
+ORD-132,9/15/2024,Ngozi Eze,Male,Lagos,South-West,Microwave,Electronics,5,295000,1475000,Card
+ORD-133,8/6/2024,Peter Okeke,Female,Lagos,South-West,Refrigerator,Electronics,2,320000,640000,Transfer
+ORD-134,10/20/2024,Obi Nwobi,Male,Lagos,South-West,Air conditioner,Home Appliance,3,145000,435000,Card
+ORD-135,3/9/2024,Bola Ajayi,Male,Port harcourt,South-South,Smartphone,Electronics,3,320000,960000,Cash
+ORD-136,7/4/2024,Victor Osei,Female,Benin city,South-South,Blender,Home Appliance,5,280000,1400000,Transfer
+ORD-137,2/16/2024,Halima Musa,Male,Kano,North-West,Smartphone,Home Appliance,2,455000,910000,Transfer
+ORD-139,11/26/2024,Nkechi Ibe,Male,Sokoto,North-West,Refrigerator,Home Appliance,2,460000,920000,Transfer
+ORD-140,3/6/2024,Kunle Adeyemi,Female,Port harcourt,South-South,Laptop,Electronics,2,295000,590000,Card
+ORD-141,2/27/2024,Chioma Igwe,Male,Kaduna,North-West,Blender,Home Appliance,3,206300,618900,Card
+ORD-142,12/8/2024,Peter Okeke,Male,Abuja,North-Central,Phone,Electronics,2,455000,910000,Cash
+ORD-143,9/23/2024,Blessing Eze,Female,Abuja,North-Central,Televison,Electronics,2,120000,240000,Cash
+ORD-144,9/25/2024,Peter Okeke,Male,Port harcourt,South-South,Smartphone,Home Appliance,3,450000,1350000,Transfer
+ORD-145,10/12/2024,Amina Yusuf,Male,Enugu,South-East,Smartphone,Home Appliance,1,295000,295000,Card
+ORD-146,4/6/2024,Fatima Bello,Female,Abuja,North-Central,Laptop,Electronics,5,320000,1600000,Cash
+ORD-147,12/26/2024,Grace Okonkwo,Female,Lagos,South-West,Blender,Home Appliance,4,95000,380000,Transfer
+ORD-148,12/6/2024,Halima Musa,Male,Port harcourt,South-South,Microwave,Electronics,4,38000,152000,Transfer
+ORD-149,5/5/2024,Obi Nwobi,Female,Lagos,South-West,Refrigerator,Home Appliance,3,95000,285000,Card
+ORD-150,7/9/2024,Zainab Umar,Female,Abuja,North-Central,Phone,Home Appliance,2,261923,523846,Transfer
+ORD-151,5/1/2024,Ngozi Eze,Male,Port harcourt,South-South,Laptop,Home Appliance,2,38000,76000,Transfer
+ORD-152,5/20/2024,Nkechi Ibe,Female,Sokoto,North-West,Laptop,Electronics,1,35000,35000,Transfer
+ORD-153,6/30/2024,Musa Dankwa,Male,Abuja,North-Central,Smartphone,Home Appliance,2,320000,640000,Transfer
+ORD-156,10/15/2024,Yusuf Garba,Male,Ibadan,South-West,Blender,Electronics,4,38000,152000,Card
+ORD-157,2/8/2024,Bola Ajayi,Female,Enugu,South-East,Smartphone,Home Appliance,1,38000,38000,Card
+ORD-158,12/14/2024,Yusuf Garba,Male,Enugu,South-East,Phone,Home Appliance,5,150000,750000,Card
+ORD-159,2/16/2024,Tunde Adeola,Male,Kano,North-West,Smartphone,Home Appliance,4,145000,580000,Card
+ORD-160,11/2/2024,Grace Okonkwo,Male,Benin city,South-South,Smartphone,Electronics,3,295000,885000,Cash
+ORD-162,1/4/2024,Adaeze Onwu,Female,Enugu,South-East,Televison,Electronics,4,38000,152000,Cash
+ORD-163,6/12/2024,Peter Okeke,Female,Port harcourt,South-South,Refrigerator,Electronics,4,145000,580000,Cash
+ORD-164,10/8/2024,Blessing Eze,Female,Enugu,South-East,Microwave,Electronics,5,295000,1475000,Cash
+ORD-165,3/19/2024,Blessing Eze,Male,Enugu,South-East,Laptop,Home Appliance,3,95000,285000,Card
+ORD-166,2/25/2024,Fatima Bello,Female,Abuja,North-Central,Smartphone,Electronics,5,320000,1600000,Transfer
+ORD-167,9/22/2024,Kunle Adeyemi,Male,Kaduna,North-West,Air conditioner,Electronics,1,120000,120000,Cash
+ORD-168,2/29/2024,Fatima Bello,Male,Benin city,South-South,Microwave,Electronics,1,120000,120000,Card
+ORD-169,1/12/2024,Tunde Adeola,Male,Sokoto,North-West,Microwave,Electronics,1,460000,460000,Transfer
+ORD-170,4/4/2024,Ahmed Lawal,Male,Kano,North-West,Smartphone,Home Appliance,2,460000,920000,Card
+ORD-171,10/22/2024,Fatima Bello,Female,Kaduna,North-West,Smartphone,Home Appliance,3,460000,1380000,Transfer
+ORD-172,8/22/2024,Sade Williams,Female,Sokoto,North-West,Televison,Home Appliance,5,38000,190000,Card
+ORD-173,9/18/2024,Ngozi Eze,Female,Ibadan,South-West,Blender,Electronics,2,145000,290000,Transfer
+ORD-175,3/26/2024,Halima Musa,Male,Benin city,South-South,Air conditioner,Home Appliance,4,455000,1820000,Card
+ORD-176,2/28/2024,Obi Nwobi,Male,Enugu,South-East,Televison,Home Appliance,5,151933,759665,Cash
+ORD-177,5/14/2024,Chidi Okafor,Male,Benin city,South-South,Air conditioner,Electronics,3,470000,1410000,Cash
+ORD-178,4/15/2024,Chioma Igwe,Female,Abuja,North-Central,Smartphone,Electronics,2,320000,640000,Cash
+ORD-179,5/21/2024,Emeka Nwosu,Female,Lagos,South-West,Smartphone,Home Appliance,2,460000,920000,Card
+ORD-180,11/20/2024,Fatima Bello,Male,Port harcourt,South-South,Phone,Home Appliance,4,150000,600000,Card
