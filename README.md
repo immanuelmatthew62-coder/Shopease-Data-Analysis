@@ -6,13 +6,14 @@ SQL • Excel • Data Analysis Portfolio Project
 
 🔗 Project Access
 
-📂 [Raw Dataset](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/data/NaijaMart..csv)
+📂 [Raw Dataset](https://github.com/immanuelmatthew62-coder/Shopease-Data-Analysis/blob/main/Data/ShopEase_Raw_Sales_Data.csv)
 
-🧹 Cleaned Dataset: Click to View
+🧹 [Cleaned Dataset](https://github.com/immanuelmatthew62-coder/Shopease-Data-Analysis/blob/main/Data/SHOPEASE%20CLEAN%20data..csv)
 
-🧾 SQL Scripts (Cleaning & Analysis): Click to View
+🧾 [SQL Scripts(Data cleaning)](https://github.com/immanuelmatthew62-coder/Shopease-Data-Analysis/blob/main/SQL/SHOPEASE%20QUERIES.sql)
+🧾 [SQL Scripts(Data Analysis)](https://github.com/immanuelmatthew62-coder/Shopease-Data-Analysis/blob/main/SQL/SHOPEASE%20QUERIES.sql)
 
-📊 Dashboard (Excel): Click to View
+📊 [Dashboard (Excel)](https://github.com/immanuelmatthew62-coder/Shopease-Data-Analysis/blob/main/Dashboard/SHOPEASE%20DASHBOARD.png)
 
 📌 Project Overview
 
