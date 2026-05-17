@@ -11,6 +11,7 @@ SQL • Excel • Data Analysis Portfolio Project
 🧹 [Cleaned Dataset](https://github.com/immanuelmatthew62-coder/Shopease-Data-Analysis/blob/main/Data/SHOPEASE%20CLEAN%20data..csv)
 
 🧾 [SQL Scripts(Data cleaning)](https://github.com/immanuelmatthew62-coder/Shopease-Data-Analysis/blob/main/SQL/SHOPEASE%20QUERIES.sql)
+
 🧾 [SQL Scripts(Data Analysis)](https://github.com/immanuelmatthew62-coder/Shopease-Data-Analysis/blob/main/SQL/SHOPEASE%20QUERIES.sql)
 
 📊 [Dashboard (Excel)](https://github.com/immanuelmatthew62-coder/Shopease-Data-Analysis/blob/main/Dashboard/SHOPEASE%20DASHBOARD.png)
