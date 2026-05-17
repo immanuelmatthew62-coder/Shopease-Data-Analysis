@@ -6,7 +6,7 @@ SQL • Excel • Data Analysis Portfolio Project
 
 🔗 Project Access
 
-📂 Raw Dataset: Click to View
+📂 [Raw Dataset](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/data/NaijaMart..csv)
 
 🧹 Cleaned Dataset: Click to View
 
